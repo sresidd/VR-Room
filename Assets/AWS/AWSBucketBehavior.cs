@@ -11,8 +11,8 @@ public class AWSBucketBehavior : MonoBehaviour
     //Bucket Information
     #region  key_info
     private const string awsBucketName = "unity-data-assets";
-    private const string awsAccessKey = "AKIAT3JYOE6EZ7VUURGZ";
-    private const string awsSecretKey = "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";
+    private const string awsAccessKey = "";
+    private const string awsSecretKey = "";
     #endregion
 
     private string dataFileName = "";
